@@ -47,5 +47,33 @@ pip install colorama
 
 Step 3: Run the game
 
+## Sample Output
+WELCOME TO THE PASSWORD GUESSING GAME
+Choose a difficulty level: easy, medium, or hard
+Enter difficulty: easy
 
+A 5-letter password has been set.
+You need to guess it correctly.
+Enter your guess: apple
+Access Denied. Incorrect password.
+Hint: __p__
+...
+Access Granted! You cracked the password.
+Time taken: 45.23 seconds
+Total attempts: 6
+
+# Learning Outcomes
+. Modular Python programming
+. Working with files and string operations
+. Terminal-based UI using colorama
+. Building and using helper modules
+
+# Made With
+.Python
+.Colorama library
+.Lots of logic and creativity
+
+Author
+Prachi Chauhan
+B.Tech Student | Passionate about Python & Projects
 
