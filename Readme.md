@@ -43,7 +43,7 @@ git clone https://github.com/prachichauhan006/password-guessing-game.git
 cd password-guessing-game
 
 Step 2: Install dependencies
-pip install colorama
+pip install colorama.
 
 Step 3: Run the game
 
@@ -76,4 +76,5 @@ Total attempts: 6
 Author
 Prachi Chauhan
 B.Tech Student | Passionate about Python & Projects
+
 
