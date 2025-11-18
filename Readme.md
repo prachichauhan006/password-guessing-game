@@ -56,7 +56,7 @@ A 5-letter password has been set.
 You need to guess it correctly.
 Enter your guess: apple
 Access Denied. Incorrect password.
-Hint: __p__
+Hint: __p__  
 ...
 Access Granted! You cracked the password.
 Time taken: 45.23 seconds
@@ -76,5 +76,6 @@ Total attempts: 6
 Author
 Prachi Chauhan
 B.Tech Student | Passionate about Python & Projects
+
 
 
