@@ -5,7 +5,7 @@ This game randomly generates a secret password based on your chosen difficulty l
 
 ---
 
-## Features
+## Features  
 
 - Choose from **Easy**, **Medium**, or **Hard** difficulty
 - Get hints after every incorrect guess
@@ -76,6 +76,7 @@ Total attempts: 6
 Author
 Prachi Chauhan
 B.Tech Student | Passionate about Python & Projects
+
 
 
 
