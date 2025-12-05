@@ -13,7 +13,7 @@ This game randomly generates a secret password based on your chosen difficulty l
 - Leaderboard to store top scores
 - Clean and modular Python code
 
----
+---  
 
 ##  Project Structure
 
@@ -76,6 +76,7 @@ Total attempts: 6
 Author
 Prachi Chauhan
 B.Tech Student | Passionate about Python & Projects
+
 
 
 
