@@ -44,7 +44,7 @@ cd password-guessing-game
 
 Step 2: Install dependencies
 pip install colorama.
-
+ 
 Step 3: Run the game
 
 ## Sample Output
@@ -76,6 +76,7 @@ Total attempts: 6
 Author
 Prachi Chauhan
 B.Tech Student | Passionate about Python & Projects
+
 
 
 
