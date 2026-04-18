@@ -12,6 +12,7 @@ This game randomly generates a secret password based on your chosen difficulty l
 - Timer to track how long you take  
 - Leaderboard to store top scores
 - Clean and modular Python code
+- simple to use
 
 ---   
 
